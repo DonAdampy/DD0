@@ -1,4 +1,4 @@
-int (ip :)
+int (ip)
 print("======25%")
 time.sleep(3)
 print("==========50%")
